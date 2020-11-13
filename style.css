@@ -1,0 +1,32 @@
+.nav-a{
+    color: rgb(96, 214, 18);
+}
+
+.nav-bar{
+    height: 60px;
+    padding-left: 50%;
+    padding-top: 40px;
+}
+
+.btn-h{
+    background-color: gray;
+    text-decoration: none;
+    border: none;
+}
+
+.bg-c{
+    background-color: gray; 
+}
+
+.bg-h{
+height: 100vh;
+background-image: url(./IMG/header.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.bg-ph{
+height: 20px;
+width: 100%;
+padding-top: 80%;
+}
