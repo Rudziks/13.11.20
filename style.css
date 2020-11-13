@@ -9,24 +9,142 @@
 }
 
 .btn-h{
-    background-color: gray;
+    background-color:rgb(158, 156, 156);
     text-decoration: none;
     border: none;
 }
 
 .bg-c{
-    background-color: gray; 
+    background-color: rgb(158, 156, 156); 
 }
 
 .bg-h{
-height: 100vh;
-background-image: url(./IMG/header.jpg);
-background-repeat: no-repeat;
-background-size: cover;
+    height: 100vh;
+    background-image: url(./IMG/header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.bg-ph{
-height: 20px;
-width: 100%;
-padding-top: 80%;
+.i-o{
+    background-color: rgb(96, 214, 18);
+}
+
+.i-s{
+    background-color: rgb(36, 128, 214);
+}
+
+.icon{
+    width: 128px;
+    height: 128px;
+    padding-top: 60px;
+    padding-left: 10px;
+}
+
+.icon-bg{
+    width: 256px;
+    height: 256px;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+}
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    overflow: hidden;
+}
+
+.grid-containerr {
+    display: grid;
+}
+
+.grid-itemm {
+    background-color: rgba(255, 255, 255, 0.8);
+    overflow: hidden;
+    border: solid 1px;
+}
+
+
+.item1{
+    grid-column: 1;
+    grid-row: 1;
+    margin-left: 150px;
+}
+
+.item2{
+    grid-column: 2;
+    grid-row: 1;
+    
+}
+
+.item3{
+    grid-column: 3;
+    grid-row: 1;
+}
+
+.item4{
+    grid-column: 4;
+    grid-row: 1;
+}
+
+.item5{
+    grid-column: 1;
+    grid-row: 2;
+    margin-left: 150px;
+}
+
+.item6{
+    grid-column: 2;
+    grid-row: 2;
+}
+
+.item7{
+    grid-column: 3;
+    grid-row: 2;
+}
+
+.item8{
+    grid-column: 4;
+    grid-row: 2 ;
+}
+
+.item9{
+    grid-column:1/span 3;
+    grid-row:3;
+}
+
+.item10{
+    grid-column:1/span 3;
+    grid-row:4 ;
+}
+
+.item11{
+    grid-column:1/span 3;
+    grid-row:5 ;
+}
+
+.item12{
+    grid-column:;
+    grid-row: ;
+}
+
+.item13{
+    grid-column: ;
+    grid-row: ;
+}
+
+.item14{
+    grid-column: ;
+    grid-row: ;
+}
+
+.item15{
+    grid-column: ;
+    grid-row: ;
+}
+
+.item16{
+    grid-column: ;
+    grid-row: ;
 }
